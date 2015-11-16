@@ -1,4 +1,4 @@
-# csc300_prog3
+#Testing probing methods for hash table inserts
 
 ###Author
 Kevin Hilt
