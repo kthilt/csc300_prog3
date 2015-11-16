@@ -30,11 +30,15 @@ April 9, 2014
  a table comparing the averages to the theoretical 1 / (1 - alpha) is printed
  to the screen before the program exits.
  
-###Compiling Instructions: 
-No special instructions for compiling. The program takes as a command line
- argument the file that will be used for input.
+###Compiling Instructions
+No special instructions for compiling.
  
-###Usage: 
 ~~~
 g++ prog3.C
 ~~~   
+
+###Usage
+The program takes as a command line argument the file that will be used for input.
+~~~
+./prog3 input.txt
+~~~
