@@ -1,27 +1,19 @@
 # csc300_prog3
 
-@file prog3.C
+##Author
+Kevin Hilt
  
-@mainpage Assignment 3
+##Date
+April 9, 2014
  
- @section course_section Course Information 
+##Professor 
+ Corwin, Edward
  
- @author Kevin Hilt
+##Course
+ CSC300 - M001 -  MWTF 10:00AM
  
- @date April 9, 2014
- 
- @par Professor: 
-         Corwin, Edward
- 
- @par Course: 
-         CSC300 - M001 -  MWTF 10:00AM
- 
- @par Location: 
-         McLaury - 310
- 
- @section program_section Program Information 
- 
- @details This program counts the number (n) of postivie, 32-bit integers 
+##Program Information 
+ This program counts the number (n) of postivie, 32-bit integers 
  in a text file and then reads them into an dynamically allocated array of
  size n. Afterward, it dynamically allocates another array of n times the
  largest specified constant value and uses that table to hash the n values
@@ -40,13 +32,10 @@
  
  @section compile_section Compiling and Usage 
  
- @par Compiling Instructions: 
-      
- 	No special instructions for compiling. The program takes as a command line
+##Compiling Instructions: 
+No special instructions for compiling. The program takes as a command line
  argument the file that will be used for input.
  
- @par Usage: 
-   @verbatim  
+##Usage: 
    g++ prog3.C
-   @endverbatim 
    
