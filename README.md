@@ -1,18 +1,18 @@
 # csc300_prog3
 
-##Author
+###Author
 Kevin Hilt
  
-##Date
+###Date
 April 9, 2014
  
-##Professor 
+###Professor 
  Corwin, Edward
  
-##Course
+###Course
  CSC300 - M001 -  MWTF 10:00AM
  
-##Program Information 
+###Program Information 
  This program counts the number (n) of postivie, 32-bit integers 
  in a text file and then reads them into an dynamically allocated array of
  size n. Afterward, it dynamically allocates another array of n times the
@@ -30,12 +30,11 @@ April 9, 2014
  a table comparing the averages to the theoretical 1 / (1 - alpha) is printed
  to the screen before the program exits.
  
- @section compile_section Compiling and Usage 
- 
-##Compiling Instructions: 
+###Compiling Instructions: 
 No special instructions for compiling. The program takes as a command line
  argument the file that will be used for input.
  
-##Usage: 
-   g++ prog3.C
-   
+###Usage: 
+~~~
+g++ prog3.C
+~~~   
